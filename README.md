@@ -1,5 +1,5 @@
 # CoGPT
-
+確認一下，這個畫面的action只有add remove，沒有update
 
 
 ## 開發團隊內容修改
