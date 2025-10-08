@@ -15,3 +15,4 @@ src\i18n\*.json
 - Model/KnowledgeBase.py
 - Controller/dashboard/knowledge_base.py
 - db/database.db
+
