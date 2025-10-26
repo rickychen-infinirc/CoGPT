@@ -1,6 +1,7 @@
 # CoGPT
 確認一下，這個畫面的action只有add remove，沒有update
 檢查152繪圖
+- [ ] 還是會有ws中斷問題
 
 ## 開發團隊內容修改
 ### 改mail
